@@ -26,7 +26,7 @@ Include a screenshot or a GIF showcasing the Color Flipper in action.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/color-flipper.git
+   [git clone https://github.com/your-username/color-flipper.git](https://github.com/DennisMenezes/JavaScript-ColorFlipper.git)
 Navigate to the project directory:
 
 bash

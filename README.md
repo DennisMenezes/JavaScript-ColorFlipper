@@ -33,10 +33,10 @@ Include a screenshot or a GIF showcasing the Color Flipper in action.
 
 Navigate to the project directory:
 
-      ```bash
-            cd color-flipper
-            Open the index.html file in your browser.
-
+   ```bash
+cd color-flipper
+Open the index.html file in your browser.
+```
 
 Usage
 Open index.html in your preferred web browser.

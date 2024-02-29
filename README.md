@@ -30,12 +30,12 @@ Include a screenshot or a GIF showcasing the Color Flipper in action.
 
    ```bash
    [git clone https://github.com/your-username/color-flipper.git](https://github.com/DennisMenezes/JavaScript-ColorFlipper.git)
+
 Navigate to the project directory:
 
-bash
-Copy code
-cd color-flipper
-Open the index.html file in your browser.
+   ```bash
+   cd color-flipper
+   Open the index.html file in your browser.
 
 Usage
 Open index.html in your preferred web browser.

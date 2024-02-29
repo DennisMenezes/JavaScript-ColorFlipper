@@ -33,9 +33,10 @@ Include a screenshot or a GIF showcasing the Color Flipper in action.
 
 Navigate to the project directory:
 
-   ```bash
-   cd color-flipper
-   Open the index.html file in your browser.
+      ```bash
+            cd color-flipper
+            Open the index.html file in your browser.
+
 
 Usage
 Open index.html in your preferred web browser.
@@ -47,4 +48,5 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 
 
 Remember to replace placeholders such as `your-username` with your actual GitHub username and customize the content to match the specifics of your project. Provide more details, documentation, or sections as needed.
+
 
